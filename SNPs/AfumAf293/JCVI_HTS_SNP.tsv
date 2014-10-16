@@ -1,23 +1,23 @@
-Source Name	Description	Comment [source_id]	Characteristics [Host]	Characteristics [GeographicLocation]	Characteristics [BioSourceType]
-AF10	Aspergillus fumigatus Af10 genomic DNA AF10-F-ILI1-01	SRX093407	human	unknown	unknown
-F12865	Aspergillus fumigatus F12865 F12865-PE-ILI7-2	SRX097019	human	unknown	unknown
-F15861	NCPF-7820 F15861-PE-ILI7-01	SRX053432	human	unknown	unknown
-F11628	Aspergillus fumigatus F11628 F11628-PE-ILI6-1	SRX097018	human	unknown	unknown
-F15767	Aspergillus fumigatus F15767 F15767-PE-ILI5-1	SRX097021	human	unknown	unknown
-B6074	Aspergillus fumigatus B6074 B6074-PE-ILI28-1	SRX097012	human	unknown	unknown
-B6078	Aspergillus fumigatus B6078 B6078-PE-ILI29-1	SRX097013	human	unknown	unknown
-B6079	Aspergillus fumigatus B6079 B6079-PE-ILI11-2	SRX097015	human	unknown	unknown
-B5868	Aspergillus fumigatus B5868 B5868-PE-ILI26-1	SRX097010	human	unknown	unknown
-B5859	Aspergillus fumigatus B5859 B5859-PE-ILI23-1	SRX097007	human	unknown	unknown
-B5863	Aspergillus fumigatus B5863 B5863-PE-ILI24-1	SRX097008	human	unknown	unknown
-F14946	NCPF-7811 F14946-PE-ILI5-01	SRX053431	human	unknown	unknown
-B5866	Aspergillus fumigatus B5866 B5866-PE-ILI25-1	SRX097009	human	unknown	unknown
-AF293_resequence1	A. fumigatus AF293 AF293-F-ILI3-01	SRX028561	human	unknown	unknown
-AF210	A. fumigatus AF210 AF210-F-ILI2-01	SRX028560	human	unknown	unknown
-B5856	Aspergillus fumigatus B5856 B5856-PE-ILI22-1	SRX097006	human	unknown	unknown
-B5854	Aspergillus fumigatus B5854 B5854-PE-ILI21-1	SRX097005	human	unknown	unknown
-B5852	Aspergillus fumigatus B5852 B5852-PE-ILI20-1	SRX097004	human	unknown	unknown
-F11698	NCPF-7816 F11698-PE-ILI6-01	SRX053430	human	unknown	unknown
-F16867	NCPF-7822 F16867-PE-ILI8-01	SRX053433	human	unknown	unknown
-B6081	Aspergillus fumigatus B6081 B6081-PE-ILI31-1	SRX097016	human	unknown	unknown
-B6069	Aspergillus fumigatus B6069 B6069-PE-ILI27-1	SRX097011	human	unknown	unknown
+SRA ID	Strain	Description	Host	GeographicLocation	BioSourceType
+SRX093407	AF10	Aspergillus fumigatus Af10 genomic DNA AF10-F-ILI1-01	human	unknown	unknown
+SRX097019	F12865	Aspergillus fumigatus F12865 F12865-PE-ILI7-2	human	unknown	unknown
+SRX053432	F15861	NCPF-7820 F15861-PE-ILI7-01	human	unknown	unknown
+SRX097018	F11628	Aspergillus fumigatus F11628 F11628-PE-ILI6-1	human	unknown	unknown
+SRX097021	F15767	Aspergillus fumigatus F15767 F15767-PE-ILI5-1	human	unknown	unknown
+SRX097012	B6074	Aspergillus fumigatus B6074 B6074-PE-ILI28-1	human	unknown	unknown
+SRX097013	B6078	Aspergillus fumigatus B6078 B6078-PE-ILI29-1	human	unknown	unknown
+SRX097015	B6079	Aspergillus fumigatus B6079 B6079-PE-ILI11-2	human	unknown	unknown
+SRX097010	B5868	Aspergillus fumigatus B5868 B5868-PE-ILI26-1	human	unknown	unknown
+SRX097007	B5859	Aspergillus fumigatus B5859 B5859-PE-ILI23-1	human	unknown	unknown
+SRX097008	B5863	Aspergillus fumigatus B5863 B5863-PE-ILI24-1	human	unknown	unknown
+SRX053431	F14946	NCPF-7811 F14946-PE-ILI5-01	human	unknown	unknown
+SRX097009	B5866	Aspergillus fumigatus B5866 B5866-PE-ILI25-1	human	unknown	unknown
+SRX028561	AF293_resequence1	A. fumigatus AF293 AF293-F-ILI3-01	human	unknown	unknown
+SRX028560	AF210	A. fumigatus AF210 AF210-F-ILI2-01	human	unknown	unknown
+SRX097006	B5856	Aspergillus fumigatus B5856 B5856-PE-ILI22-1	human	unknown	unknown
+SRX097005	B5854	Aspergillus fumigatus B5854 B5854-PE-ILI21-1	human	unknown	unknown
+SRX097004	B5852	Aspergillus fumigatus B5852 B5852-PE-ILI20-1	human	unknown	unknown
+SRX053430	F11698	NCPF-7816 F11698-PE-ILI6-01	human	unknown	unknown
+SRX053433	F16867	NCPF-7822 F16867-PE-ILI8-01	human	unknown	unknown
+SRX097016	B6081	Aspergillus fumigatus B6081 B6081-PE-ILI31-1	human	unknown	unknown
+SRX097011	B6069	Aspergillus fumigatus B6069 B6069-PE-ILI27-1	human	unknown	unknown
